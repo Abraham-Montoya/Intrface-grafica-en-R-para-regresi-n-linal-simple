@@ -1,0 +1,1 @@
+# Intrface-grafica-en-R-para-regresi-n-linal-simple
